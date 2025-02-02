@@ -1,10 +1,10 @@
-# Customer Churn Prediction using Supervised Learning
+# Customer Churn Prediction (Supervised Learning)
 
 ## Project Description
 
-This project aims to predict customer churn for a banking institution using machine learning techniques. Several supervised learning algorithms (K-Nearest Neighbors, Decision Tree, Random Forest, SVM, and Naive Bayes) are implemented and evaluated to identify customers at risk of leaving the service.
+This project aims to predict customer churn using machine learning techniques. Several supervised learning algorithms (K-Nearest Neighbors, Decision Tree, Random Forest, SVM, and Naive Bayes) are implemented and evaluated to identify customers at risk of leaving the service.
 
-[Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)
+![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)
 
 ## Dataset
 
